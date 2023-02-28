@@ -8,5 +8,5 @@ Computing the merkle tree root corresponding to a set of transactions as fast an
 :point_right:go and create a file called transactions.txt in the same directory with one hex-encoded transaction hash per line. Then, run the following command:
 :point_right: go run MerkleTreeRoot.go :point_left:
 
-![Alt text](/animeshbhatt651/MerkleTreeRoot/output_merkleTreeRoot.jpg
+![Alt text](./animeshbhatt651/MerkleTreeRoot/output_merkleTreeRoot.jpg
  "Output as merkle root hash in hexadecimal format")
